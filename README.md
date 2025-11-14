@@ -17,10 +17,9 @@ Welcome to my hardware and embedded systems portfolio. This repository showcases
 A compact, regulated breadboard power module designed for prototyping.
 
 **Includes:**
-- Schematic (PNG/PDF)
+- Schematic
 - 2-layer PCB layout + Gerbers
-- Photos of assembled board
-- Oscilloscope test results (ripple testing)
+- 3D Render of assembled board
 
 **Features:**
 - USB‑C + DC barrel input options
@@ -36,9 +35,9 @@ Folder: `/breadboard_power_supply/`
 ### 🦼 2. Smart Wheelchair — Graduation Project
 Arduino-based mobility platform with voice control, sonar detection, and joystick steering.
 
-**Includes:**
+**The Report Includes:**
 - Block diagram & wiring docs
-- Firmware (`.ino` files)
+- Firmware
 - Photos of prototype
 - Motor control + obstacle avoidance code
 
@@ -58,8 +57,7 @@ Low-noise stereo amplifier PCB with gain selection and proper grounding/decoupli
 **Includes:**
 - Schematic
 - PCB layout (Gerbers + render)
-- Assembled board images
-- Noise floor comparison
+- 3D Render board images
 
 Folder: `/audio_amplifier/`
 
