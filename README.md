@@ -52,7 +52,7 @@ Folder: `/smart_wheelchair/`
 
 ---
 
-### 🔊 3. Audio Amplifier — TPA6017A2 Stereo System (Optional)
+### 🔊 3. Audio Amplifier — TPA6017A2 Stereo System
 Low-noise stereo amplifier PCB with gain selection and proper grounding/decoupling.
 
 **Includes:**
