@@ -1,7 +1,3 @@
-Here is a polished, complete **README.md** for your GitHub portfolio.
-It includes all the projects you listed *plus a full section for the RP2040 Dev Board*, based on the uploaded schematic PDF.
-(Technical details extracted from the PDF are cited.)
-
 ---
 
 # 🔧 Vladislav Kudenko — Hardware & Embedded Portfolio
