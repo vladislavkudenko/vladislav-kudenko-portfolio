@@ -13,7 +13,6 @@ I specialize in:
 
 * PCB design (2–4 layers, digital & mixed-signal)
 * Embedded firmware (Arduino, ESP32, RP2040, STM32 basics)
-* Hardware bring-up, debugging, testing
 * Power electronics & low-noise design practices
 
 ---
@@ -33,20 +32,20 @@ I specialize in:
 ## 🖥️ 1. RP2040 Dev Board (Custom Design)
 
 **A custom, hand-designed development board based on the Raspberry Pi RP2040 microcontroller.**
-This is a fully standalone board featuring USB power input, onboard voltage regulation, QSPI flash memory, crystal oscillator, SWD header, and castellated pins for module-style integration.
+This is a fully standalone board featuring USB-C power input, onboard voltage regulation, QSPI flash memory, crystal oscillator, and castellated pins for module-style integration.
 
 ### ✔ Features
 
 * Raspberry Pi **RP2040 microcontroller** (Dual-core Arm Cortex-M0+) 
-* **MIC39100-3.3** LDO for stable 3.3V regulation 
-* **Mini-USB** connector for power and USB data interface 
+* **TPS54202** LDO for stable 3.3V regulation 
+* **USB-C** connector for power and USB data interface with ESD protection
 * **W25Q128JV** 128-Mbit QSPI Flash Memory for program storage 
 * **12 MHz Crystal Oscillator** (ABM8-272-T3) with 15pF load capacitors 
 * **Full breakout of all 30 GPIO pins**
 * **Castellated edge pads** for surface-mount module applications 
-* Power LED + user LED on GPIO13
+* Power LED + user LED on GPIO0
 * SWD header for programming & debugging
-* USB data-line ESD/series protection (27Ω resistors on D+ / D−) 
+* Reset and Boot buttons
 * Reverse-polarity protection diodes on V_IN and V_USB inputs 
 
 ### 📁 Folder
