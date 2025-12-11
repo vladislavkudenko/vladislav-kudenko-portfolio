@@ -1,5 +1,3 @@
----
-
 # 🔧 Vladislav Kudenko — Hardware & Embedded Portfolio
 
 Welcome to my hardware & embedded systems engineering portfolio.
